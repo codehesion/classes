@@ -18,7 +18,7 @@ Every Monday Night
 - Pizza if we can afford it  
 
 [Omni Commons](https://omnicommons.org/)  
-[4799 Shattuck Ave., Oakland CA](http://maps.google.com/?q=4799 Shattuck Ave., Oakland, CA)  
+[4799 Shattuck Ave., Oakland CA](http://maps.google.com/?q=4799%20Shattuck%20Ave.,%20Oakland,%20CA)  
   
 Cost: Free / Donations Accepted*  
   
