@@ -1,13 +1,13 @@
 # Codehesion Node JS Classes
+[www.codehesion.tech](http://www.codehesion.tech)  
 
 ## Live Classes - Oakland, CA
 
 ### Mondays
 
 #### Introduction To Node JS
-Matthew Stewart - Codehesion Director of Software Architecture  
+w/Matthew Stewart - Codehesion Director of Software Architecture  
   
-Every Monday Night  
 6:00pm - 7:30pm:  
 - Node JS Installation  
 - Node JS Globals  
@@ -26,4 +26,4 @@ Every Monday Night
   
 Cost: Free / Donations Accepted*  
   
-* Donations go towards the venue, teaching supplies, refreshments, teachers, etc.
+*Donations go towards the venue, teaching supplies, refreshments, teachers, etc.
