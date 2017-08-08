@@ -2,7 +2,9 @@
 
 ## Live Classes - Oakland, CA
 
-### Introduction To Node JS
+### Mondays
+
+#### Introduction To Node JS
 Matthew Stewart - Codehesion Director of Software Architecture  
   
 Every Monday Night  
@@ -11,7 +13,9 @@ Every Monday Night
 - Node JS Globals  
 - Build A Web Server  
 - Node Package Manager (NPM)  
+  
 7:30pm - 8:00pm: Break  
+  
 8:00pm - 10:00pm/Whenever:  
 - Explore Further / Hack  
 - Pair 1 on 1 with another Programmer  
