@@ -1,6 +1,6 @@
 # Codehesion Node JS Classes
 
-## Current Schedule
+## Live Classes - Oakland, CA
 
 ### Introduction To Node JS
 Matthew Stewart - Codehesion Director of Software Architecture  
