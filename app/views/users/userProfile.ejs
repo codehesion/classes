@@ -1,0 +1,26 @@
+<% include ../partials/header.ejs %>
+
+<div class="viewport-container">
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-xs-12 col-md-8 offset-md-2 col-lg-6 offset-lg-3">
+
+                <h1 class="page-title text-center">
+                	<%= profileUser.local.username %>
+                </h1>
+
+                <img id="profile-image" src="<%= profileUser.local.avatarUrl %>">
+
+                <p class="text-center mt-2">
+                	joined <%= createdAt %><br>
+                	<%= profileUser.local.email %><br>
+           			<%= profileUser.local.phoneNumber %>
+                </p>
+            </div>    
+        </div>        
+    </div>
+
+</div>
+
+<% include ../partials/footer.ejs %>

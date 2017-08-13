@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>
+        <% if (title != ""){ %>
+            <%= title %> | <%= appTitle %>
+        <% } else if (!title || title === undefined){ %>
+            <%= appTitle %>
+        <% } %>
+    </title>
+    <!-- google fonts -->
+    <link href="https://fonts.googleapis.com/css?family=EB+Garamond" rel="stylesheet">
+    <!-- load bootstrap css -->
+    <link rel="stylesheet" href="/vendor/bootstrap4/css/bootstrap.min.css">
+    <!-- load font awesome css -->
+    <link rel="stylesheet" href="/vendor/font-awesome/css/font-awesome.min.css">
+    <!-- load jquery js -->
+    <script src="/vendor/bootstrap4/js/jquery.js"></script>    
+    <!-- load custom css -->
+    <link rel="stylesheet" href="/css/styles.css">    
+</head>
+<body>
+
+<% include ./navigation.ejs %>

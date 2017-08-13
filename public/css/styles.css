@@ -1,0 +1,45 @@
+body {
+	/*font-family: 'Alfa Slab One', cursive;*/
+}
+
+.viewport-container {
+	position: relative;
+	display: block;
+	min-height: 100vh;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+#profile-image {
+	position: relative;
+	display: block;
+	max-height: 200px;
+	width: auto;
+	max-width: 100%;
+	margin: 20px auto 0px auto;
+}
+
+
+/* Bootstrap 4 Media Queries */
+
+
+/* Small devices (landscape phones, 544px and up) */
+@media (min-width: 544px) { 
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+
+}

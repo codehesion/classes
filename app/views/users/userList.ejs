@@ -1,0 +1,27 @@
+<% include ../partials/header.ejs %>
+
+<div class="viewport-container">
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12 col-md-8 offset-md-2 col-lg-6 offset-lg-3">
+
+                <h1 class="page-title text-center">
+                	User List
+                </h1>
+                
+                <div class="list-group mt-3">
+                    <% users.forEach(function(thisUser){ %>
+                        <a href="/users/<%= thisUser.local.username %>" class="list-group-item list-group-item-action">
+                            <%= thisUser.local.username %>
+                        </a>
+                    <% }); %>
+                </div>
+
+            </div>    
+        </div>        
+    </div>
+
+</div>
+
+<% include ../partials/footer.ejs %>

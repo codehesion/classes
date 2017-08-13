@@ -1,0 +1,50 @@
+<% include ../partials/header.ejs %>
+
+<div class="viewport-container">
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-xs-12 col-md-8 offset-md-2 col-lg-6 offset-lg-3">
+
+                <h1 class="page-title text-center">Signup</h1>
+
+                <!-- show any messages that come back with authentication -->
+                <% if (message.length > 0) { %>
+                    <div class="alert alert-danger"><%= message %></div>
+                <% } %>
+
+                <!-- LOGIN FORM -->
+                <form action="/signup" method="post">
+                    <div class="form-group">
+                        <label for="email">Username</label>
+                        <input 
+                            type="text" 
+                            class="form-control" 
+                            name="username"
+                            placeholder="username" 
+                        >
+                    </div>
+                    <div class="form-group">
+                        <label for="password">Password</label>
+                        <input 
+                            type="password" 
+                            class="form-control" 
+                            name="password"
+                            placeholder="password" 
+                        >
+                    </div>
+
+                    <button type="submit" class="btn btn-success">Signup</button>
+                </form>
+
+               
+
+                <p class="text-center">Already have an account? <a href="/login" class="btn btn-sm btn-primary">Login</a></p>
+                <p class="text-center">Or go <a href="/" class="btn btn-sm btn-secondary">home</a>.</p>
+
+            </div>    
+        </div>
+    </div>
+</div>    
+
+<% include ../partials/footer.ejs %>
