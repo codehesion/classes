@@ -4,7 +4,7 @@
 ## Course Material
 Our course material is available on this repository in Markdown.  
   
-+-- [Introduction](https://github.com/codehesion/classes/tree/master/content/1-Introduction)  
++-- 1.[Introduction](https://github.com/codehesion/classes/tree/master/content/1-Introduction)  
 |   +-- Hello - [Javascript](https://github.com/codehesion/classes/blob/master/content/1-Introduction/hello.js) - [Markdown](https://github.com/codehesion/classes/blob/master/content/1-Introduction/hello.md)  
 |   +-- Variables - [Javascript](https://github.com/codehesion/classes/blob/master/content/1-Introduction/variables.js) - [Markdown](https://github.com/codehesion/classes/blob/master/content/1-Introduction/variables.md)  
 
