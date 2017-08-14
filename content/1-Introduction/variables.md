@@ -1,4 +1,4 @@
-# Hello
+# Variables
 
 ## Create File
 In your node projects folder, create a new file called ```variables.js``` and place the following contents in the file:  
@@ -6,7 +6,7 @@ In your node projects folder, create a new file called ```variables.js``` and pl
 ```JavaScript
 // variables.js
 
-// A constant value does not change.
+// A constant does not change.
 const prefix = "Hello from ";
 
 // A variable does change.
