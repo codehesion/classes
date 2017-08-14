@@ -1,6 +1,14 @@
 # Codehesion Node JS Classes
 [www.codehesion.tech](http://www.codehesion.tech)  
 
+## Course Material
+Our course material is available on this repository in Markdown.  
+  
++-- [Introduction](https://github.com/codehesion/classes/tree/master/content/1-Introduction)  
+|   +-- Hello - [Javascript](https://github.com/codehesion/classes/blob/master/content/1-Introduction/hello.js) [Markdown](https://github.com/codehesion/classes/blob/master/content/1-Introduction/hello.md)  
+|   +-- Variables - [Javascript](https://github.com/codehesion/classes/blob/master/content/1-Introduction/variables.js) [Markdown](https://github.com/codehesion/classes/blob/master/content/1-Introduction/variables.md)  
+
+
 ## Live Classes - Oakland, CA
 
 ### Mondays
@@ -27,3 +35,4 @@ w/Matthew Stewart - Codehesion Director of Software Architecture
 Cost: Free / Donations Accepted*  
   
 *Donations go towards the venue, teaching supplies, refreshments, teachers, etc.
+
